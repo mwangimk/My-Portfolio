@@ -11,7 +11,7 @@ This is a project of my portfolio.
 Open my github repository
 click on the live link to view the project/portfolio.
 ## Link to site
-This is a live link to my site.
+This is a live link to my site.https://mwangimk.github.io/My-Portfolio/
 ### License & copyright
 MIT License
 
