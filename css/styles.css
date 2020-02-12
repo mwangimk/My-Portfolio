@@ -12,8 +12,18 @@ p {
   font-family: sans-serif;
 }
 ul {
-  line-height: 4px;
+  line-height: 40px;
 }
 .part1
 { float:center;
 background-color: cornflowerblue;}
+.part1 img
+{
+  height: 90px;
+  width: 90px;
+}
+img
+{
+  height: 90px;
+  width: 90px;
+}
