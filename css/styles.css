@@ -17,3 +17,13 @@ ul {
 .part1
 { float:center;
 background-color: cornflowerblue;}
+.part1 img
+{
+  height: 100px;
+  width: 100px;
+}
+img
+{
+  height: 100px;
+  width: 100px;
+}
